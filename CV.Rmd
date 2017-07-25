@@ -1,0 +1,181 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: rap-latex-cv.tex
+geometry: margin=1in
+
+title: "Resume"
+author: Ryan A. Peek
+
+jobtitle: "PhD Candidate, Ecology, UC Davis"
+address: "1000 Tulip Lane · Davis · CA 95618"
+fontawesome: yes
+email: rapeek@ucdavis.edu
+github: ryanpeek
+#phone: "+1 555 5555"
+web: ryanpeek.github.io
+updated: yes
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+---
+
+# EDUCATION
+
+*University of California, Davis*, Ph.D. candidate Ecology \hfill expected 2018  
+*University of San Francisco*, M.S. Biology \hfill 2010  
+*University of California, Davis*, B.S. Wildlife, Fish, & Conservation Biology \hfill 2002  
+
+# EMPLOYMENT
+
+*Center for Watershed Sciences, UC Davis:*
+
+ > **Graduate Student Researcher** \hfill 2014--present
+ 
+ Research in stream ecology, amphibians, and montane aquatic ecosystems, with particular focus on linking physical cues with ecological function, and assessing ecological integrity with molecular techniques to understand current and future hydroclimatic impacts on hydro-regulated rivers in the Sierra Nevada.
+
+ > **Jr. Research Specialist** \hfill 2011--2014
+ 
+ Research in stream ecology and montane aquatic ecosystems, with particular focus on ecosystem function and hydroclimatic impacts on hydro-regulated rivers in the Sierra Nevada. Assessed hydroregulation impacts on biota, geomorphology, benthic macroinvertebrates, algae and water quality. Field lead for California Energy Commission funded Spring Snowmelt Recession project, focused on quantifying the variability in the spring snowmelt flow regime compared to variability in abiotic stream conditions. Experience conducting statistical and geospatial analyses using ArcGIS, R, and JMP. Part of several interdisciplinary projects, including characterization and management of the spring snowmelt recession, assessing the effects of hydroclimatic change on meadow associated amphibians in the Sierra Nevada, integration of climate warming in the FERC hydrorelicensing process, and geomorphological flume modeling of riverine bar shape under different flow regimes. Research Projects included:
+
+- Sierra Nevada Spring Snowmelt Recession – characterize and quantify the spring snowmelt recession in regulated and unregulated rivers in the American and Yuba watersheds.  
+-	California Freshwater Conservation – classify aquatic macrohabitat across the state and assess conservation viability for freshwater fish assemblages.  
+-	PISCES Fish Modeling – quantify and attribute statistical confidence to expert knowledge with species distribution models under hydroclimatic change for select assemblage of Central Valley fishes.
+- Sierra Nevada Meadow-Amphibian Modeling – Hydroclimatic modeling of sensitive montane amphibian species distributions under changing   hydroclimatic conditions to identify areas of resilience and compaction in the Sierra Nevada.  
+-	Van Norden Meadow Monitoring – Advise Gateway Mountain Learning Center on citizen science and monitoring methodology, help implement and conduct long term monitoring effort.  
+- Sierra Nevada Meadows Clearinghouse and Database – Liaison for multiple parties to inform and improve GIS meadow database and web repository for more effective Sierra Nevada meadow conservation and management (meadows.ucdavis.edu)  
+- Tuolumne Ecogeomorphology Education Module – Co-instructor for undergraduate course, collected and processing data for curriculum development and creation of virtual hike of source to sea for Tuolumne River (https://watershed.ucdavis.edu/education/classes/tuolumne-meadows-virtual-hike)  
+
+*USDA Forest Service, Pacific Southwest Research Station:*
+
+ > **Biological Science Technician** \hfill 2010
+ 
+ Developed and designed website on ecology, river regulation and conservation of the foothill yellow-legged frog (*Rana boylii*), including GIS synthesis and development of a map showing over 6,000 records from multiple sources to provide a comprehensive view of *R. boylii’s* distribution in California and Oregon ( http://gis.fs.fed.us/psw/topics/wildlife/herp/rana_boylii/ ). Conducted 1-D RHABSIM modeling and analysis.  Coordinate field research, data collection, and writing. 
+
+*University of California, Berkeley:*
+
+ > **Research Assistant II**  \hfill 2009--2010
+ 
+  As part of a California Energy Commission study of regulated flow effects on foothill yellow-legged frog (*Rana boylii*) breeding habitat, led field research crews for extensive field data collection.  Collaborated with Sarah Yarnell and Amy Lind on field methodology and integrating graduate research with the grant research.  Worked in rugged terrain in large rivers throughout California, collected habitat data, including multiple cross-section data on depth and velocity, substrate size, and cover.  Conducted visual encounter surveys for egg masses, tadpoles, and post-metamorphic frogs in 500-meter sites in each river.
+
+*University of California, Davis:*
+
+ > **Research Assistant II**  \hfill 2009
+ 
+ Working with Sarah Kupferberg and Alessandro Catenazzi, assisted in research, as part of a California Energy Commission study, of regulated flow effects on water temperatures and foothill yellow-legged frog (*Rana boylii*) breeding, including predation experiments and tadpole growth experiments.  Helped deploy thermographs in various Sierran rivers throughout California. Conducting research on tributary density in relation to amphibian occupancy in regulated rivers in California.
+
+*Stillwater Sciences:*
+
+ > **Fish & Wildlife Biologist** \hfill 2002-–2010
+ 
+ Field and Project Manager, conducted research in aquatic, terrestrial, and riparian ecosystems. Assisted in the development of restoration, conservation, and management strategies in various watersheds throughout California and Oregon for amphibian and fisheries related projects. Extensive experience completing watershed analyses.  Successfully worked independently and collaboratively on various projects including leading field crews, managing budgets, conducting meetings, analyzing data, and writing comprehensive reports.  Watershed Experience Includes (Clients):
+
+- Alameda Creek (San Francisco Public Utilities Commission)–project manager and lead researcher for a project analyzing long-term river regulation effects on genetic connectivity of foothill yellow-legged frogs
+-	Upper American River (Sacramento Municipal Utility District)–Amphibians, aquatic reptiles, fisheries, geomorphology, and benthic macroinvertebrates 
+-	South Fork Feather River (South Feather Water & Power)–Amphibians, aquatic reptiles, and  fisheries
+-	Yuba River (North, Middle, and South) (CH2MHill)–Fisheries
+-	Napa River and Floodplain (US Army Corp of Engineers)–Fisheries
+-	Santa Clara River (California State Coastal Conservancy)–Amphibians, aquatic reptiles, and fisheries
+-	McKenzie River (Eugene Water and Electric Board)–Amphibians, fisheries, raptors
+-	Upper Merced River (Merced Alliance)–Fisheries, geomorphology
+-	Butte Creek and West Branch Feather River (PG&E)–Amphibians, aquatic reptiles, fisheries
+McCloud and Pit Rivers (PG&E)–Amphibians, aquatic reptiles, fisheries
+
+*National Park Service (Sequoia & Kings Canyon):*
+
+ > **Biological Science Technician** \hfill 2001  
+
+Part of a 2-person backcountry crew working on a federally threatened Sierra/Mountain yellow-legged frog (*Rana sierrae* / *muscosa*) conservation and restoration project during the initial year of the project.  This position involved extensive backpacking and hiking experience while living in remote and rugged terrain at 10,000-12,000 feet for multiple weeks at a time.  Required the ability to work independently, efficiently, and safely.  Conducted amphibian surveys of mountain lakes and identified amphibian species in larval and adult stages, habitat assessment, data collection, and non-native fish removal.  Non-native trout were removed from mountain lakes using extensive gill netting and electrofishing methods
+
+# TEACHING
+
+*Instructor, Software/Data Carpentry* \hfill 2016, 2-3 wknds/yr
+
+> Teach researchers in science, engineering, medicine, and related disciplines the computing skills they need to get more done using open source and reproducible tools. Specifically, have taught ecology/natural science and genomics workshops at Stanford, UC Davis, UC Berkeley, and University of Rhode Island Coastal Institute. (http://software-carpentry.org/) (http://www.datacarpentry.org/)
+  
+*Davis R-Users Group, Co-Coordinator, University of California Davis* \hfill 2014--present, 3 hrs/wk
+
+> Weekly 2-hour meeting to provide presentation, instruction, help, and work session for anyone working in R. Also help manage & coordinate meetings, presentations, and email list-serve. (https://d-rug.github.io/).
+
+*Co-Instructor, Ecogeomorphology, University of California Davis* \hfill 2015, 10 hrs/wk
+
+> Taught advanced undergraduate students to multidisciplinary collaborative watershed and stream analysis through combined laboratory and field study of a selected stream system. Educated students from diverse backgrounds to work in interdisciplinary research teams to collect and analyze field data from the Tuolumne River system. Guided, lectured, and taught in classroom, lab, and field, including a 3 day rafting trip on the Tuolumne River.
+
+*Head Coach, UC Davis Women's Club Soccer Team, Davis* \hfill 2011-2014 20 hrs/wk
+
+> Head coach for women's club collegiate soccer team. Created lesson plans and a safe, constructive environment to teach athletes how to be better soccer players and students. Act as role-model and mentor for 25 young women, supervise travel and safety for many tournaments and games throughout CA and the US.
+
+*Lab Instructor/Teaching Assistant, General Biology, University of San Francisco* \hfill 2009--2010 8 hrs/wk
+
+> Lab instructor for undergraduate general biology lab; planned and conducted lab activities and led discussions for two semesters (molecular biology fall semester, organismal biology spring semester).  Gave weekly lecture to the class. Wrote weekly quizzes, graded students reports and exams
+
+*Head Coach, UC Berkeley Women's Club Soccer Team, Berkeley* \hfill 2006-2010 20 hrs/wk
+
+> Head coach for women's club collegiate soccer team. Created lesson plans and a safe, constructive environment to teach athletes how to be better soccer players and students. Act as role-model and mentor for 25 young women, supervise travel and safety for many tournaments and games throughout CA and the US.
+
+# PUBLICATIONS
+
+Yarnell, S., R. Peek, G. Epke and A. Lind. 2016. "Management of the Spring Snowmelt Recession in Regulated Systems." *JAWRA Journal of the American Water Resources Association* 52(3): 723--736.
+
+Grantham, T., K. Fesenmeyer, R. Peek, E. Holmes, A. Bell, R. Quiñones, N. Santos, J. Howard, J. Viers, P. Moyle. 2016. "Missing the boat on freshwater fish conservation in California." *Conservation Letters* 10.1111/conl.12249.
+
+Howard, J.K., K.R. Klausmeyer, K.A. Fesenmyer, J. Furnish, T. Gardali, T. Grantham, J.V. Katz, S. Kupferberg, P. McIntyre, P.B. Moyle, P.R. Ode, R. Peek, R.M. Quinones, A.C. Rehn, N. Santos, S. Schoenig, L. Serpa, J.D. Shedd, J. Slusark, J.H. Viers, A. Wright and S.A. Morrison. 2015. "Patterns of Freshwater Species Richness, Endemism, and Vulnerability in California." *PLoS One* 10(7): e0130710.
+
+Peek, R. 2010. "Landscape Genetics of Foothill Yellow-legged Frogs (*Rana boylii*) in regulated and unregulated rivers: Assessing connectivity and genetic fragmentation." Master’s Thesis, Biology Department. University of San Francisco, CA. 69 pp.
+
+
+# PUBLIC MEDIA
+
+“The Aggie Brickyard.” Co-Founder & Design Editor,  2015--present (2 hrs/wk).  
+
+> https://aggiebrickyard.github.io *A quarterly magazine publication inspired and created solely by graduate students to serve as a conduit among students and faculty, and allowing us to bridge knowledge gaps and leverage the diversity of expertise we have here at UC Davis.*
+
+"Nature's Confluence Blog" Contributing Writer, 2015--present.
+
+> http://www.naturesconfluence.com *A blog to challenge the nature of conservation science, conventional conservation thinking, the conventional way of doing science. We are guilty of diligently demonstrating that human actions of all sorts have adverse impacts on nature, yet we also recognize that the incessant pointing out of problems, without offering solutions, is just plain annoying to people. We believe that seeking solutions often means re-thinking a problem. We mean to stimulate this re-thinking. We are striving to convey these stories at the confluence of science, nonscience and nonsense.* 
+
+“A Watershed Moment.” UC Davis Magazine, Spring 2014.
+
+> http://ucdavismagazine.ucdavis.edu/issues/sp14/watershed_momentum.html
+
+“Cool and Collected.” College of Agricultural and Environmental Sciences Outlook, Spring 2013.
+
+> http://www.caes.ucdavis.edu/news/publications/outlook
+
+"A Summer Spent Saving Frogs." Sierra Nature Notes. 2002.  
+
+> http://sierranaturenotes.com/naturenotes/SavingFrogs.htm
+
+# AWARDS
+
+**2016**  *Best Oral Presentation for Basic Research*, Society for Freshwater Science Annual Conference, Sacramento CA
+
+**2015**  *Henry A. Jastro Research Award*, UC Davis College of Agricultural and Environmental Sciences
+
+**2014**  *Ecology Fellowship*, UC Davis Graduate Group in Ecology
+
+# PROFESSIONAL AFFILIATIONS & TRAINING	  
+
+  - Undocu-Ally Educator, 2016--present (http://education.ucdavis.edu/educator-event/undocu-ally-program-educators)
+  - CDFW Scientific Collecting Permit #6881
+  - Software & Data Carpentry Instructor
+  - Davis R-Users Group - Co-Administrator
+  - American Society of Ichthyologists and Herpetologists (ASIH)
+  - Society for Study of Amphibians and Reptiles (SSAR)
+  - Ecology Society of America (ESA)
+  - Society for Freshwater Science (SFS)
+  - Whitewater Rafting Guide, Outdoor Adventures, UC Davis, 2013--present
+  - Wilderness First Aid, Outdoor Adventures, UC Davis, 2015
+  - River Rescue Certification, Sierra Rescue/Rescue 3 International, Coloma CA, 2013
+  - Rare Pond Species (Western Pond Turtle, California Red-Legged Frog, and California Tiger Salamander) Survey Techniques Workshop (Laguna Foundation), April 2012
+  - Biology and Management of the California Red Legged Frog Workshop, Santa Cruz County Resource Conservation and Elkhorn Slough Coastal Training Program, Santa Cruz, CA, March 2007
+  - Western Pond Turtle Workshop: Ecology and Conservation, The Wildlife Society, San Francisco Bay Area Chapter, Sonoma State, CA, April 2005
+  - Giant Garter Snake Workshop, The Wildlife Society, Sacramento-Shasta Chapter, Elk Grove, CA. September 2003
+
+# REFERENCES
+
+Available upon request
