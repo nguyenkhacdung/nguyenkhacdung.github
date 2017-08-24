@@ -1,10 +1,10 @@
-#Welcome to GitHub Pages.
+# Welcome to GitHub Pages.
 
 Hello! I'm NGUYEN Khac-Dung (Kevin), and this is my GitHub Pages home page. It's still filled mostly with helpful hints from GitHub, and needs a lot of work!
 
-$ cd your_repo_root/repo_name
-$ git fetch origin
-$ git checkout gh-pages
+  - cd your_repo_root/repo_name
+  - git fetch origin
+  - git checkout gh-pages
 
 If you're using the GitHub for Mac, simply sync your repository and you'll see the new branch.
 Designer Templates
