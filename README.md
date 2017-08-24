@@ -14,6 +14,12 @@ We've crafted some handsome templates for you to use. Go ahead and continue to l
   - Sốc phản vệ gây ra bởi thuốc
   - Bản đồ Heat map tín hiệu trong CSDL
 
+## Cảnh giác dược - Bài báo Nghiên cứu khoa học đã hoàn thành  
+
+  - [Comparasion of 3 imputation methods for identifying drugs-induced Stevens-Johnson syndrome and toxic epidermal necrolysis by retrospective analysis of the relevant data from the national pharmacovigilance database in Vietnam](https://nguyenkhacdung.github.io/pdf/ALDEN_TCDH2017.pdf)
+  - [Screening drug induced liver injury in a tertiary care Hospital (Huu Nghi)](https://nguyenkhacdung.github.io/pdf/TonThuongGanHuuNghi2016.pdf)
+
+
 ## Rather Drive Stick?
 
 If you prefer to not use the automatic generator, push a branch named gh-pages to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator written by our own Tom Preston-Werner. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.
